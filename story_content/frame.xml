@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Airship Dispatchers HTML" />
+              <option name="title_text" value="Airship Module Relink" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1188,95 +1188,7 @@
       <links>
         <slidelink slideid="_player.6UHhcSVYOhw" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6UHhcSVYOhw.65sUZBcGRNa" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5WLclrurFsV" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6UHhcSVYOhw.6bW4rwng2FO" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5r90Jm2DX92" displaytext="Navigation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6JsvMbIIH6E" displaytext="Navigation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5ZsOxLMxa1H" displaytext="Main Menu" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5iozzq07IIW" displaytext="Training Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5WofGmWxIss" displaytext="Training Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6pr5ysmsP2F" displaytext="Process Flow" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6WxdyqCNaUs" displaytext="Process Flow" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6E5cTh1Xt8g" displaytext="Process Flow" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6Xo3jupTz2R" displaytext="Process Flow" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5WJbqu6LeTF" displaytext="Process Flow" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5oXNqYKbeWZ" displaytext="Creating Packages" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6Liee0p5mhs" displaytext="Creating Packages" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5w5HYqzKPSO" displaytext="Creating Packages" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5mndZR6HnBi" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5mJPWd9OYhi" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5i7sShtPVO2" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5qbJIzS3ta7" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.67DE9egJhKt" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6jCRd37TBJX" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.65wEWUVtKWh" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6dFlkQWscVs" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6JApOzkbVpq" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5bWflJ6uQwX" displaytext="Manage Package List" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6C6N7owXj4Z" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6hukLNNmkxy" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6fBmNr6a1mX" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6mvYe4CuydI" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5orkaYDjx61" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.69B7iM81zYO" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5qjNx6pyRf2" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5tkOyyaPysD" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6pXwkH81QGu" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6li6JjC7kVF" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5vpP9Fswby9" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6oQE7NhjkJL" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6iDlXgesMEn" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6jkkS3fATl2" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5ZSdHjfeLm6" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5vkcTImHU7B" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6BkHWqEkate" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5b1Ppl18Vre" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6798mLf8Q0I" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6QqFJSmPEB0" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5YATzE6qVgo" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5kAS7t4FRnC" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6pElK8idBrH" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6G9QUlUgPak" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6US4QCKf4kL" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6D5PCSq1dEa" displaytext="Assignment" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6bt3nDIQruc" displaytext="Completing Deliveries" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5arDM7iHL2H" displaytext="Completing Deliveries 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5shFRRNamyb" displaytext="Completing Deliveries" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6V61pcKhZpz" displaytext="Completing Deliveries" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6HQuFkGp6vy" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5YYo8dcDT24" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.61xIhlrvZfK" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5w2pLv1lJJm" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6kW0vNQNjYQ" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5ZlQS7mhb4o" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6hHV7XDuLum" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5sEzhOOm79T" displaytext="Validation" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6JbhROhLZNf" displaytext="Receiving" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5vzJsiT4lpl" displaytext="Receiving" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5tXmXUoPTOc" displaytext="Receiving" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5YOXATXE8W6" displaytext="Failed" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6JugBy0Xujg" displaytext="Failed" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5wrkAdpQfXE" displaytext="Failed" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.687pPOtmhNY" displaytext="Failed" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6PZNe0Nta98" displaytext="Failed" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.63D3hUMGJmD" displaytext="3PL" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6SGdgxQ5bVu" displaytext="3PL" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5ceygsZ1gxh" displaytext="3PL" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6WvaxQc7YhG" displaytext="A blue progress bar means success. " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5esFgAVD5mK" displaytext="Packages with the New status can be forwarded to 3PL couriers." expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5judkcCemo1" displaytext="The rider should ask for the receiver’s relationship to the consignee, if applicable." expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6ZbnxWwHUTQ" displaytext="To dispatch multiple packages, tick the boxes of these packages, click Bulk Actions, and choose Assign for Delivery. " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.68rzZTMDloO" displaytext="To reassign a rejected task, click the kebab menu, choose Assign for Delivery, choose a rider, and click the Assign button. " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5npzfj5d3eT" displaytext="Only the _____ can accept the task" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6qSNVlaAO4a" displaytext="If the app is unavailable, the receiver of the&#xA;package can sign on the ________ to acknowledge delivery." expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6QG1Gl2IZvY" displaytext="To receive cash per task, toggle Cash in the Receiving tab, click the kebab menu, and choose _________. " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6jrQCPldyWG" displaytext="To assign resolution packages in bulk, tick the boxes of the packages, click __________ then choose Assign for Delivery. " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.5uqw7JMDFVj" displaytext="To validate a failed delivery, click the kebab menu, choose ________, add Remarks if applicable, and click the OK button. " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6KhxNeGTyjm" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6QWSP4ZQfh2" displaytext="Matching Type. Match the task with the correct status by dragging the items on the right to the corresponding items on the left. (2 attempts only) " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.6eRhgz7OE1o" displaytext="What should you always choose as pick-up option when creating a package? " expand="false" type="slide" />
-            <slidelink slideid="_player.6UHhcSVYOhw.64q0UjpnbbI" displaytext="What should you click to view a single package?" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6TRt4ucKNHa" displaytext="Untitled Scene" expand="true" type="slide">
